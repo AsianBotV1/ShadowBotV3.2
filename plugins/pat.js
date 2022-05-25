@@ -6,7 +6,7 @@ try {
 let res = await fetch('https://api.waifu.pics/sfw/pat')
 let json = await res.json()
 let { url } = json
-let stiker = await sticker(null, url, 'pat', 'The Shadow Brokers - Bot')
+let stiker = await sticker(null, url, 'pat', 'Asian - Bot')
 conn.sendMessage(m.chat, stiker, MessageType.sticker, { quoted: m })
 } catch (e) { }}
 handler.command = /^(pat|palmaditas|cariños|mimos)$/i
