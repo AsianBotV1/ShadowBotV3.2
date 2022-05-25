@@ -1,7 +1,7 @@
 {
-  "name": "TheShadowBrokers-Bot",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/ShadowBotV3.2",
+  "name": "IlliaB Asian-Bot",
+  "description": "Subscribete a Asian - Bot (≧▽≦)",
+  "repository": "https://github.com/IlliaB",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/ShadowBotV3.2/master/Menu2.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
   "buildpacks": [
